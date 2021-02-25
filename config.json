@@ -1,0 +1,5 @@
+{
+    "driverName": "postgres",
+    "datasource": "user=postgres dbname=bugtracker sslmode=disable",
+    "Address": "127.0.0.1:8080"
+}
